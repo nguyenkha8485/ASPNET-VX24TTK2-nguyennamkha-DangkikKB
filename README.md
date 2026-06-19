@@ -1,4 +1,4 @@
-# ASPNET-VX24TTK2-nguyennamkha-DangkikKB
+# ASPNET-VX24TTK2-NguyenNamKha-DangkiKB
 ## Xây dựng website đặt lịch hẹn khám bệnh ngoài giờ
 ## Giới thiệu
 - Sinh viên: Nguyễn Nam Kha
